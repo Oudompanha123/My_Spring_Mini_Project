@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/KPS_GROUP_2_SPRING_MINI_PROJECT_Backup/src/main/java/org/kps_group2/spring_mini_project/repository/CategoryRepository.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/KPS_GROUP_2_SPRING_MINI_PROJECT_Backup/src/main/java/org/kps_group2/spring_mini_project/repository/ExpenseRepository.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/KPS_GROUP_2_SPRING_MINI_PROJECT_Backup/src/main/java/org/kps_group2/spring_mini_project/repository/appUserRepository/AppUserRepository.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/KPS_GROUP_2_SPRING_MINI_PROJECT_Backup/src/main/resources/script/data.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/KPS_GROUP_2_SPRING_MINI_PROJECT_Backup/src/main/resources/script/scheme.sql" dialect="PostgreSQL" />
+  </component>
+</project>
